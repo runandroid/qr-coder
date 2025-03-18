@@ -1,3 +1,4 @@
+# QR Coder
 QR Coder using Python to convert the input entered by the user into a QR code that can be scanned by a QR reader.
 
 Main functionalities:
